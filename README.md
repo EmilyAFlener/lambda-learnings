@@ -1,4 +1,4 @@
-# My Lambda Learnings
+# My Lambda Learnings - Data Wrangling and Modeling
 
 Welcome to my Lambda School predicitve modeling assignment. Materials covered include data wrangling, analysis and predictive modeling.
 
