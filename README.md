@@ -6,3 +6,5 @@ Welcome to my Lambda School predicitve modeling assignment. Materials covered in
 ## Electronics E-commerce Data Analysis and Modeling
 
 I chose to utilize electronics e-commerce data to discern the most preditive feature for a good product review.
+
+Libraries used include: matplotlib, numpy, pandas, sklearn.
